@@ -1,0 +1,282 @@
+[
+    [
+        "Your Food Your Way",
+        [
+            {
+                "name": "Your Food Your Way Deal",
+                "desc": "Leg broast, leg tikka, paratha, mayo garlic roll, coleslaw & fries",
+                "price": "Rs400"
+            }
+        ]
+    ],
+    [
+        "Exclusive Discounted Deals",
+        [
+            {
+                "name": "Economy Deal",
+                "desc": "Beef or chicken burger, beef or chicken roll, coleslaw & french fries",
+                "price": "Rs210"
+            },
+            {
+                "name": "Cravy Deal",
+                "desc": "Zinger burger, chicken crispy roll, coleslaw, ketchup & french fries",
+                "price": "Rs280"
+            },
+            {
+                "name": "Juicy Deal",
+                "desc": "Chicken burger, quarter broast leg, coleslaw & french fries",
+                "price": "Rs310"
+            },
+            {
+                "name": "Student Deal",
+                "desc": "Zinger burger, chicken burger, coleslaw, french fries & soft drink can",
+                "price": "Rs300"
+            },
+            {
+                "name": "Hottie Deal",
+                "desc": "Zinger burger, chicken roll, coleslaw, french fries & soft drink can",
+                "price": "Rs300"
+            },
+            {
+                "name": "Spicy Deal",
+                "desc": "Chicken tikka leg, chicken mayo roll, paratha, raita & soft drink can",
+                "price": "Rs400"
+            },
+            {
+                "name": "Yummy Deal",
+                "desc": "Quarter broast breast, BBQ club sandwich, french fries, coleslaw, raita, ketchup & soft drink can",
+                "price": "Rs400"
+            },
+            {
+                "name": "Crispy Deal",
+                "desc": "Broast leg, club sandwich, chicken cheese burger & soft drink can",
+                "price": "Rs500"
+            },
+            {
+                "name": "Mini BBQ Deal",
+                "desc": "Beef seekh kabab, beef boti plate, 2 paratha & 500ml soft drink",
+                "price": "Rs500"
+            },
+            {
+                "name": "Combo Deal",
+                "desc": "Reshmi kabab plate, malai boti plate, 2 paratha, raita & salad",
+                "price": "Rs500"
+            },
+            {
+                "name": "Royal Deal",
+                "desc": "2 Broast, 2 zinger burgers, 2 club sandwich & 1 litre soft drink",
+                "price": "Rs1,050"
+            },
+            {
+                "name": "Family Deal",
+                "desc": "Chicken tikka leg, quarter broast leg, malai boti plate, reshmi kabab plate, 2 chicken roll, 2 beef roll, 4 paratha, french fries, raita, salad & 1.5 litre soft drink",
+                "price": "Rs1,350"
+            },
+            {
+                "name": "Family Jumbo Deal",
+                "desc": "Seekh kabab, chicken boti, zinger burger, club sandwich, 2 pieces crispy sandwich, beef boti, chicken tikka breast, quarter broast leg, 6 paratha, raita, salad, french fries & 2.25 litre soft drink",
+                "price": "Rs1,700"
+            }
+        ]
+    ],
+    [
+        "Soup",
+        [
+            {
+                "name": "Chicken Corn Soup",
+                "desc": "",
+                "price": "Rs120"
+            },
+            {
+                "name": "Hot & Sour Soup",
+                "desc": "",
+                "price": "Rs160"
+            },
+            {
+                "name": "Chicken Vegetable Soup",
+                "desc": "",
+                "price": "Rs160"
+            },
+            {
+                "name": "Chicken Thai Soup",
+                "desc": "",
+                "price": "Rs160"
+            }
+        ]
+    ],
+    [
+        "Fast Food",
+        [
+            {
+                "name": "Choakas Chicky Burger",
+                "desc": "Chicken",
+                "price": "from Rs120"
+            },
+            {
+                "name": "Choakas Cheese Burger",
+                "desc": "Chicken",
+                "price": "from Rs150"
+            },
+            {
+                "name": "Choakas Jumbo Burger",
+                "desc": "",
+                "price": "from Rs180"
+            },
+            {
+                "name": "Choakas Jumbo Cheese Burger",
+                "desc": "",
+                "price": "from Rs200"
+            },
+            {
+                "name": "Choakas Zinger Burger",
+                "desc": "",
+                "price": "Rs180"
+            },
+            {
+                "name": "Choakas Zinger Cheese Burger",
+                "desc": "",
+                "price": "Rs200"
+            },
+            {
+                "name": "Choakas Quarter Broast",
+                "desc": "",
+                "price": "from Rs190"
+            },
+            {
+                "name": "Choakas Cheese Broast",
+                "desc": "",
+                "price": "from Rs230"
+            },
+            {
+                "name": "Choakas Chicken Sandwich",
+                "desc": "",
+                "price": "Rs130"
+            },
+            {
+                "name": "Choakas Club Sandwich",
+                "desc": "",
+                "price": "Rs160"
+            },
+            {
+                "name": "Choakas BBQ Sandwich",
+                "desc": "",
+                "price": "Rs170"
+            },
+            {
+                "name": "Choakas BBQ Club Sandwich",
+                "desc": "",
+                "price": "Rs180"
+            },
+            {
+                "name": "Choakas Malai BBQ Sandwich",
+                "desc": "",
+                "price": "Rs200"
+            },
+            {
+                "name": "Choakas BBQ Burger",
+                "desc": "",
+                "price": "Rs180"
+            },
+            {
+                "name": "Choakas BBQ Cheese Burger",
+                "desc": "",
+                "price": "Rs200"
+            },
+            {
+                "name": "Choakas Spicy Broast",
+                "desc": "",
+                "price": "from Rs200"
+            },
+            {
+                "name": "Choakas Garlic Mayo Broast",
+                "desc": "",
+                "price": "from Rs210"
+            },
+            {
+                "name": "Junior Zinger Burger",
+                "desc": "",
+                "price": "Rs150"
+            },
+            {
+                "name": "Junior Zinger Cheese Burger",
+                "desc": "",
+                "price": "Rs180"
+            },
+            {
+                "name": "2 In One Zinger Burger",
+                "desc": "",
+                "price": "Rs260"
+            },
+            {
+                "name": "2 In One Zinger Cheese Burger",
+                "desc": "",
+                "price": "Rs300"
+            },
+            {
+                "name": "Jalapeno Burger",
+                "desc": "",
+                "price": "from Rs200"
+            },
+            {
+                "name": "Malai BBQ Club Sandwich",
+                "desc": "",
+                "price": "Rs220"
+            },
+            {
+                "name": "Choakas Chatpata Broast",
+                "desc": "",
+                "price": "from  Rs200"
+            }
+        ]
+    ],
+    [
+        "Side Orders",
+        [
+            {
+                "name": "Choakas Plain Fries",
+                "desc": "",
+                "price": "Rs80"
+            },
+            {
+                "name": "Choakas Spicy Fries",
+                "desc": "",
+                "price": "Rs100"
+            },
+            {
+                "name": "Choakas Mayo Fries",
+                "desc": "",
+                "price": "Rs120"
+            },
+            {
+                "name": "Choakas Cheese Fries",
+                "desc": "",
+                "price": "Rs150"
+            },
+            {
+                "name": "Paratha",
+                "desc": "",
+                "price": "from Rs30"
+            },
+            {
+                "name": "Cheese Slice",
+                "desc": "",
+                "price": "Rs30"
+            }
+        ]
+    ],
+    [
+        "Beverages",
+        [
+            {
+                "name": "Soft Drink",
+                "desc": "",
+                "price": "from Rs50"
+            },
+            {
+                "name": "Mineral Water",
+                "desc": "",
+                "price": "from Rs40\n "
+            }
+        ]
+    ]
+]

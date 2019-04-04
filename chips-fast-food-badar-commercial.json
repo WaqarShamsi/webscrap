@@ -1,0 +1,397 @@
+[
+    [
+        "Promotional Deal",
+        [
+            {
+                "name": "Deal",
+                "desc": "Hot & crispy burger with fries & drink",
+                "price": "Rs300"
+            }
+        ]
+    ],
+    [
+        "Combos",
+        [
+            {
+                "name": "Combo 1",
+                "desc": "Double steak roast beef, fries & soft drink",
+                "price": "Rs500"
+            },
+            {
+                "name": "Combo 2",
+                "desc": "Double steak roast chicken, fries & soft drink",
+                "price": "Rs450"
+            },
+            {
+                "name": "Combo 3",
+                "desc": "Roast beef, fries & soft drink",
+                "price": "Rs400"
+            },
+            {
+                "name": "Combo 4",
+                "desc": "Roast chicken, fries & soft drink",
+                "price": "Rs370"
+            },
+            {
+                "name": "Combo 5",
+                "desc": "Chicken steak burger, fries and soft drink.",
+                "price": "Rs370"
+            },
+            {
+                "name": "Combo 6",
+                "desc": "Beef cheese, fries & soft drink",
+                "price": "Rs250"
+            },
+            {
+                "name": "Combo 7",
+                "desc": "Roast beef sandwich, fries & soft drink",
+                "price": "Rs400"
+            },
+            {
+                "name": "Combo 8",
+                "desc": "Chips club sandwich, fries & soft drink",
+                "price": "Rs370"
+            }
+        ]
+    ],
+    [
+        "Chips",
+        [
+            {
+                "name": "Plain Chips",
+                "desc": "",
+                "price": "Rs150"
+            },
+            {
+                "name": "Masala Chips",
+                "desc": "",
+                "price": "Rs150"
+            },
+            {
+                "name": "BBQ Chips",
+                "desc": "",
+                "price": "Rs200"
+            },
+            {
+                "name": "Garlic Mayo Chips",
+                "desc": "",
+                "price": "Rs200"
+            },
+            {
+                "name": "Spicy Garlic Mayo Chips",
+                "desc": "",
+                "price": "Rs200"
+            },
+            {
+                "name": "Cheesy Chips",
+                "desc": "",
+                "price": "Rs200"
+            }
+        ]
+    ],
+    [
+        "Soups",
+        [
+            {
+                "name": "Chicken Corn Soup",
+                "desc": "",
+                "price": "Rs150"
+            },
+            {
+                "name": "Hot & Sour Soup",
+                "desc": "",
+                "price": "Rs150"
+            }
+        ]
+    ],
+    [
+        "Burgers",
+        [
+            {
+                "name": "Egg & Cheese Burger",
+                "desc": "",
+                "price": "Rs130"
+            },
+            {
+                "name": "Beef Cheese Burger",
+                "desc": "",
+                "price": "Rs220"
+            },
+            {
+                "name": "Hot & Crispy",
+                "desc": "",
+                "price": "Rs250"
+            },
+            {
+                "name": "Signature Roast Beef",
+                "desc": "",
+                "price": "Rs300"
+            },
+            {
+                "name": "Double Stack Roast Beef",
+                "desc": "",
+                "price": "Rs400"
+            },
+            {
+                "name": "Double Stack Roast Chicken",
+                "desc": "",
+                "price": "Rs350"
+            },
+            {
+                "name": "Chicken Burger",
+                "desc": "",
+                "price": "Rs230"
+            },
+            {
+                "name": "Authentic Chicken Steak",
+                "desc": "",
+                "price": "Rs270"
+            },
+            {
+                "name": "Roast Chicken Burger",
+                "desc": "",
+                "price": "Rs270"
+            }
+        ]
+    ],
+    [
+        "Chinese Items\nAll Dishes are served with rice",
+        [
+            {
+                "name": "Beef Chili",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Beef Chili Dry",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Beef Chowmein",
+                "desc": "",
+                "price": "Rs400"
+            },
+            {
+                "name": "Chicken Shashlik",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Chicken Chili",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Chicken Chili Dry",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Cherry Chili Chicken",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Chicken Manchurian",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Chicken Pineapple",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Chicken Vegetable",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Chicken Jalfrezi",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Chicken Shezuan",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Chicken Lemon",
+                "desc": "",
+                "price": "Rs450"
+            },
+            {
+                "name": "Chicken Chowmein",
+                "desc": "",
+                "price": "Rs400"
+            }
+        ]
+    ],
+    [
+        "Sandwiches",
+        [
+            {
+                "name": "Fried Chicken",
+                "desc": "",
+                "price": "Rs300"
+            },
+            {
+                "name": "Chips Club Sandwich",
+                "desc": "",
+                "price": "Rs300"
+            },
+            {
+                "name": "Classic Roast Beef Sandwich",
+                "desc": "",
+                "price": "Rs300"
+            },
+            {
+                "name": "Classic O Club Sandwich",
+                "desc": "",
+                "price": "Rs250"
+            },
+            {
+                "name": "Classic Roast Chicken Sandwich",
+                "desc": "",
+                "price": "Rs250"
+            },
+            {
+                "name": "Grilled Chicken Sandwich",
+                "desc": "",
+                "price": "Rs250"
+            },
+            {
+                "name": "Chicken Sandwich",
+                "desc": "",
+                "price": "Rs200"
+            }
+        ]
+    ],
+    [
+        "Steaks",
+        [
+            {
+                "name": "Classic American Beef Steak",
+                "desc": "",
+                "price": "Rs600"
+            },
+            {
+                "name": "Classic Pepper Beef Steak",
+                "desc": "",
+                "price": "Rs600"
+            },
+            {
+                "name": "Classic American Chicken Steak",
+                "desc": "",
+                "price": "Rs550"
+            },
+            {
+                "name": "Chips Pepper Chicken Steak",
+                "desc": "",
+                "price": "Rs550"
+            }
+        ]
+    ],
+    [
+        "Pizzas",
+        [
+            {
+                "name": "Cheese Lover Pizza",
+                "desc": "",
+                "price": "from Rs300"
+            },
+            {
+                "name": "Roast Chicken Pizza",
+                "desc": "",
+                "price": "from Rs300"
+            },
+            {
+                "name": "Roast Beef Pizza",
+                "desc": "",
+                "price": "from Rs300"
+            },
+            {
+                "name": "Polo Chicken Pizza",
+                "desc": "",
+                "price": "from  Rs300"
+            },
+            {
+                "name": "Beefy Sensation",
+                "desc": "",
+                "price": "from Rs300"
+            },
+            {
+                "name": "Vegetable Pizza",
+                "desc": "",
+                "price": "from Rs300"
+            },
+            {
+                "name": "Hawaiian Pizza",
+                "desc": "",
+                "price": "from Rs300"
+            }
+        ]
+    ],
+    [
+        "Fried",
+        [
+            {
+                "name": "Fried Chicken",
+                "desc": "",
+                "price": "Rs300"
+            }
+        ]
+    ],
+    [
+        "Sidelines",
+        [
+            {
+                "name": "Bun",
+                "desc": "5 Pieces",
+                "price": "Rs20"
+            },
+            {
+                "name": "Coleslaw",
+                "desc": "",
+                "price": "Rs30"
+            },
+            {
+                "name": "Cheese Slice",
+                "desc": "",
+                "price": "Rs30"
+            },
+            {
+                "name": "Egg",
+                "desc": "",
+                "price": "Rs20"
+            },
+            {
+                "name": "Nuggets",
+                "desc": "",
+                "price": "Rs200"
+            },
+            {
+                "name": "Dip Sauce",
+                "desc": "",
+                "price": "Rs50"
+            }
+        ]
+    ],
+    [
+        "Beverages",
+        [
+            {
+                "name": "Soft Drink",
+                "desc": "",
+                "price": "Rs60"
+            },
+            {
+                "name": "Mineral Water",
+                "desc": "",
+                "price": "Rs40"
+            }
+        ]
+    ]
+]

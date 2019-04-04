@@ -1,0 +1,77 @@
+[
+    [
+        "Burgers",
+        [
+            {
+                "name": "Old School Justice Burger",
+                "desc": "Classic beef patty with mayo, cheese & crispy lettuce",
+                "price": "from Rs250"
+            },
+            {
+                "name": "BBQ Law Burger",
+                "desc": "Classic beef burger packed with punchy BBQ sauce",
+                "price": "from Rs270"
+            },
+            {
+                "name": "OutLaw Burger",
+                "desc": "Perfect flavors due to our special criminal sauce",
+                "price": "from Rs300"
+            },
+            {
+                "name": "Smoking Order Burger",
+                "desc": "Beef twisted burger includes a strip of chicken",
+                "price": "Rs350"
+            },
+            {
+                "name": "Mushroom Squad Burger",
+                "desc": "Classic beef burger complimented by mushroom chunks",
+                "price": "from Rs280"
+            },
+            {
+                "name": "Bona Fide Burger",
+                "desc": "Grilled chicken with crispy vegs and white sauce",
+                "price": "Rs250"
+            },
+            {
+                "name": "Chief Burger",
+                "desc": "The chicken crispy burger with a hint of jalapeno",
+                "price": "Rs280"
+            }
+        ]
+    ],
+    [
+        "Fries",
+        [
+            {
+                "name": "Classic Fries",
+                "desc": "Small serving of oringal cut fries",
+                "price": "Rs90"
+            },
+            {
+                "name": "Cheesy Garlic",
+                "desc": "Unique sauce with spring onions",
+                "price": "Rs200"
+            },
+            {
+                "name": "Pizza Fries",
+                "desc": "Enjoy two flavors at once",
+                "price": "Rs200"
+            },
+            {
+                "name": "Beefy Jalapenos",
+                "desc": "Chewy & spicy",
+                "price": "Rs200"
+            }
+        ]
+    ],
+    [
+        "Beverages",
+        [
+            {
+                "name": "Soft Drink",
+                "desc": "",
+                "price": "from Rs50"
+            }
+        ]
+    ]
+]
